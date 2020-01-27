@@ -1,6 +1,6 @@
 {
   "name": "@ampath-kenya/packmap",
-  "version": "1.2.0-beta",
+  "version": "1.2.0-beta.1",
   "description": "Turn a package.json into a browser-ready import map",
   "main": "lib/packmap.js",
   "bin": "bin/packmap-cli.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/openmrs/packmap.git"
+    "url": "git+https://github.com/AMPATH/packmap.git"
   },
   "keywords": [
     "import",
@@ -32,9 +32,9 @@
   "author": "Joel Denning",
   "license": "MPL-2.0",
   "bugs": {
-    "url": "https://github.com/openmrs/packmap/issues"
+    "url": "https://github.com/AMPATH/packmap/issues"
   },
-  "homepage": "https://github.com/openmrs/packmap#readme",
+  "homepage": "https://github.com/AMPATH/packmap#readme",
   "dependencies": {
     "commander": "^3.0.2",
     "fs-extra": "^8.1.0",
